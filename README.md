@@ -1,5 +1,5 @@
 # Dog Breed classifier
-##Introduction
+##Introduction <br />
 Dog breeding classiﬁcation is a challenging task since dogs with different breeding may have little visual difference. In order to achieve better result comparing to baseline method on this task, i have reimplemented several wellknown CNN networks and use Stanford Dog Dataset which is a subset from ImageNet used for the task of ﬁne-grained image classiﬁcation to verify the approach. Furthermore, i studied the transfer learning ability from a broad, general classiﬁcation problem in a ﬁne-grained classiﬁcation problem.
 
 ##Why CNN?
