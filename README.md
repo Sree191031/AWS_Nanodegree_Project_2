@@ -16,7 +16,7 @@ By apply data augmentation and random ﬂips to images to get better results. Al
 We apply different data augmentation methods for training dataset and validation dataset. For training dataset, we apply data augmentation methods in the following order: resize to [256, 256], randomly rotate 45 degree, randomly crop the image to [224, 224]; for the validation dataset, we apply data augmentation methods in the following order: resize to [256, 256], crop the image to [224, 224] from the center. Finally, we ﬂip the image horizontally and randomly. For all neural network architectures we use, we follow the standard of ImageNet training.<br />
 
 **Step 2 : Models**<br />
-I have used four well-known neural network architectures for this project, which are **AlexNet, GoogLeNet, VGG-16 w/o BN and ResNet18.**<br />
+I have used four well-known neural network architectures for this project, which are **AlexNet, VGG-16 w/o BN and ResNet18.**<br />
 
 
 
